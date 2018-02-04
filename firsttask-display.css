@@ -1,0 +1,73 @@
+﻿body {
+       overflow:hidden;
+       margin:2vw; 
+       
+}
+     .oneorangecell {
+              width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:left;
+     }
+     .twoorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:left;
+     }
+     .threeorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:right;
+     }
+     .fourorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+clear:both;
+float:left;
+     }
+     .fiveorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:left;
+     }
+     .sixorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:right;
+     }
+     .sevenorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+clear:both;
+float:left;
+     }
+     .eightorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:left;
+     }
+     .nineorangecell { width:28vw;
+              height:28vw;
+              border-radius:2vw;
+              background-color:orange;
+              margin:2vw;
+              float:right;
+     }
+
+     
