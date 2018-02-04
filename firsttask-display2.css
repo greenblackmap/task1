@@ -1,0 +1,74 @@
+﻿body { overflow:scroll;
+       overflow-x:hidden;
+       margin:2.6%; 
+       
+}
+     .oneorangecell {
+              width:28%;
+              height:0;
+              padding-top:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+     .twoorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+     .threeorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+     .fourorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+clear:both;
+float:left;
+     }
+     .fiveorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+     .sixorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+     .sevenorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+clear:both;
+float:left;
+     }
+     .eightorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+     .nineorangecell { width:28%;
+              height:0;padding-bottom:28%;
+              border-radius:5%;
+              background-color:orange;
+              margin:2.6%;
+              float:left;
+     }
+
+     
